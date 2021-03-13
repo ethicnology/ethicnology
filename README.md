@@ -1,4 +1,5 @@
-![ethicnology's github stats](https://github-readme-stats.vercel.app/api?username=ethicnology&show_icons=true&theme=dark&count_private=true)
+![ethicnology's github stats](https://github-readme-stats.vercel.app/api?username=ethicnology&show_icons=true&theme=dark&count_private=true)  
+![ethicnology's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethicnology&langs_count=10&hide=html,css&theme=dark&count_private=true&layout=compact)
 
 Donations - Bitcoin address : **bc1qg6upgext2gu556hajfgqn4u5qmlrwmqjv64u5g**
 <!--
